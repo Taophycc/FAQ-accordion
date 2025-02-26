@@ -43,7 +43,7 @@ body {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.8rem;
 }
 
 .faq {
@@ -102,5 +102,13 @@ footer {
   }
   .background {
     background-image: url('./assets/images/background-pattern-desktop.svg');
+  }
+
+   h2 {
+    font-size: 1.1rem;
+  }
+  
+  .answer {
+    font-size: 1rem;
   }
 }
